@@ -1,0 +1,1 @@
+alert('Newly added page here ')
